@@ -6,8 +6,6 @@ Clone using git
 git clone https://github.com/scasolari/Django-DRF-starter-pack.git
 ```
 
-Simple starter pack for Django DRF API. In this project you can find already complied strater API endpoint ``/api/profile``
-
 ## Installation
 
 Use the file requirements.txt to install all the packages.
