@@ -8,17 +8,14 @@ git clone https://github.com/scasolari/Django-DRF-starter-pack.git
 
 ## Installation
 
-Use the file requirements.txt to install all the packages.
+Create and activate your env
 
-```bash
-pip install requirements.txt 
-```
-
-## Usage
-
-Run in order:
 * `python3 -m venv venv`
 * `source venv/bin/activate`
+
+Use the file requirements.txt to install all the packages.
+
+* `pip install requirements.txt `
 * `python manage.py migrate`
 * `python manage.py runserver`
 * `python manage.py createsuperuser`
